@@ -4,10 +4,10 @@ Style/StringLiterals:
     - /#{"[^"]*"}/
 
 Style/BlockComments:
-  Enabled: false
-
 Naming/MethodParameterName:
-  Enabled: false
-
 Metrics/MethodLength:
+Naming/PredicateName:
+Metrics/CyclomaticComplexity:
+Metrics/AbcSize:
+Metrics/PerceivedComplexity:
   Enabled: false
